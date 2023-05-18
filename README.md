@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Jordi 👋
 
 I'm a web developer - I like to build things!
 <!--
